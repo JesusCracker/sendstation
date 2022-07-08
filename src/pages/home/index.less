@@ -38,6 +38,19 @@
     background-size: 402px 104px;
     cursor: pointer;
     user-select: none;
+    position: relative;
+    .close{
+      right: -5px;
+      position: absolute;
+      top: -50%;
+      height: 50px;
+    }
+    .edit{
+      position: absolute;
+      height: 50px;
+      top: -50%;
+      left: -5px;
+    }
   }
 
   .item_enter {
@@ -79,6 +92,11 @@
     text-align: center;
     margin: 20px 0;
     user-select: none;
+  }
+
+  .logout{
+    margin-top: 10px;
+    float: right;
   }
 
 }
