@@ -11,3 +11,18 @@
 账号：root
 密码：Amt@2020
 
+## 安装与使用
+
+```bash
+$ git clone 
+$ cd sendstation
+$ yarn install
+$ yarn dev
+$ cd server
+$ yarn install
+$ yarn serve
+
+```
+
+## 目录结构
+
