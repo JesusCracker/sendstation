@@ -6,6 +6,7 @@ npm-debug.log
 .umi
 .vscode
 .git
+package-lock.json
 dist
 /.history
 loginPage/
